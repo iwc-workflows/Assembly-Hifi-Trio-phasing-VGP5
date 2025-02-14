@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-02-04T19:46:21.508382",
+            "datePublished": "2025-02-14T16:33:40.275236",
             "hasPart": [
                 {
                     "@id": "Assembly-Hifi-Trio-phasing-VGP5.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#6c90f2d0-97ac-4cf1-9859-139ef042eb38"
+                    "@id": "#1c71388e-5dd6-4af7-b6f9-32ad7946b70a"
                 },
                 {
                     "@id": "https://vertebrategenomeproject.org"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-Hifi-Trio-phasing-VGP5",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#galaxy",
@@ -90,7 +90,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#6c90f2d0-97ac-4cf1-9859-139ef042eb38",
+            "@id": "#1c71388e-5dd6-4af7-b6f9-32ad7946b70a",
             "@type": "Organization",
             "name": "Galaxy"
         },
